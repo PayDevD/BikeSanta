@@ -1,0 +1,54 @@
+#--------------------------------------------------------
+#
+# This file is created by summary commenter 
+#
+#--------------------------------------------------------
+
+# Setting
+setting.descNumbering        =   0
+setting.issueNumbering       =   0
+setting.refURLNumbering      =   0
+setting.recursiveTraversal   =   1
+setting.divBySeparator       =   0
+setting.divByStartEndTag     =   1
+
+# Flags
+flag.Sup_Div_Line   =   1
+flag.Project_Name   =   1
+flag.File_Name   =   1
+flag.Author   =   0
+flag.Team   =   1
+flag.Created_Date   =   0
+flag.Last_Edited   =   0
+flag.Desc   =   1
+flag.Issue   =   1
+flag.Email   =   0
+flag.Telephone   =   0
+flag.Github_Account   =   0
+flag.Ref_URLs   =   1
+flag.Memo   =   0
+flag.Sub_Div_Line   =   1
+
+# Globals
+global.Extension        =  "cs"
+global.Project_Name     =  "BikeSanta"
+global.Project_Path     =  "C:\BikeSanta"
+global.Author           =  ""
+global.Separator        =  "@ "
+global.StartTag         =  "/*"
+global.EndTag           =  "*/"
+global.Sub_Div_Line     =  "==============================+==============================================================="
+global.Sup_Div_Line     =  "==============================+==============================================================="
+global.Email            =  ""
+global.Telephone        =  ""
+global.Github_Account   =  ""
+global.Team             =  "21C. Santa"
+global.Memo             =  ""
+
+# Desc
+
+# Issue
+
+# Reference URLs
+
+# Excluded files

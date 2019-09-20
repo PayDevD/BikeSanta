@@ -6,7 +6,7 @@
 
 ### Enviroment Development
 
-> Unity 2019.3.0a5 Personal
+> Unity 2019.3.0b3 Personal
 >
 
 ### Assets Sources
